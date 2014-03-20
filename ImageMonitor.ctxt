@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=newStatus
+comment0.target=void\ setStatus(java.lang.String)
+comment1.params=o
+comment1.target=void\ register(IImageMovementObserver)
+comment2.params=o
+comment2.target=void\ unregister(IImageMovementObserver)
+comment3.params=
+comment3.target=void\ notifyObservers()
+numComments=4

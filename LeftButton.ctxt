@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LeftButton()
+comment1.params=X\ Y
+comment1.target=LeftButton(int,\ int)
+comment2.params=
+comment2.target=void\ oldAct()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ invoke()
+comment5.params=
+comment5.target=void\ addToWorld()
+comment6.params=screen
+comment6.target=void\ AddComponents(IScreen)
+comment7.params=screen
+comment7.target=void\ RemoveComponents(IScreen)
+comment8.params=
+comment8.target=int\ getXCoordinate()
+comment9.params=
+comment9.target=int\ getYCoordinate()
+numComments=10

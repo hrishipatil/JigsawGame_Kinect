@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LeftImage()
+comment1.params=X\ Y
+comment1.target=LeftImage(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ addToWorld()
+comment4.params=screen
+comment4.target=void\ AddComponents(IScreen)
+comment5.params=screen
+comment5.target=void\ RemoveComponents(IScreen)
+comment6.params=
+comment6.target=int\ getXCoordinate()
+comment7.params=
+comment7.target=int\ getYCoordinate()
+numComments=8

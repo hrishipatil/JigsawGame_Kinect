@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RightImage()
+comment1.params=X\ Y
+comment1.target=RightImage(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

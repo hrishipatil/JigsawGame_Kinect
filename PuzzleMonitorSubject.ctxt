@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ PuzzleMonitorSubject\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=status
+comment1.target=void\ setPuzzleStatus(java.lang.String)
+comment2.params=o
+comment2.target=void\ register(IPuzzleObserver)
+comment3.params=o
+comment3.target=void\ unregister(IPuzzleObserver)
+comment4.params=
+comment4.target=void\ notifyObservers()
+numComments=5

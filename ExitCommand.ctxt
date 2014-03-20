@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=world
+comment0.target=ExitCommand(greenfoot.World)
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ ExitCommand\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ executeCommand()
+comment2.params=receiver
+comment2.target=void\ setReceiverScreen(GameScreen)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

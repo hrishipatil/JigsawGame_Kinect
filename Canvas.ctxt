@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Canvas()
+comment1.params=im\ world
+comment1.target=Canvas(ImageMonitor,\ greenfoot.World)
+comment10.params=imagesArrangmnt
+comment10.target=void\ updateImageDetails(java.lang.String)
+comment2.params=
+comment2.target=java.util.List\ getLstMessageBoard()
+comment3.params=
+comment3.target=ImageMonitor\ getImageMonitor()
+comment4.params=
+comment4.target=void\ setSubject()
+comment5.params=
+comment5.target=void\ update()
+comment6.params=
+comment6.target=void\ act()
+comment7.params=imageName\ pieces
+comment7.target=void\ splitImageIntoChunks(java.lang.String,\ int)
+comment8.params=displayPieces
+comment8.target=void\ notifyImageBoard(int)
+comment9.params=image
+comment9.target=void\ updateImageContainer(java.lang.String)
+numComments=11

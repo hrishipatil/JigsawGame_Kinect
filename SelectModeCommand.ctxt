@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=world
+comment0.target=SelectModeCommand(greenfoot.World)
+comment1.params=
+comment1.target=void\ executeCommand()
+comment2.params=receiver
+comment2.target=void\ setReceiverScreen(ModeScreen)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

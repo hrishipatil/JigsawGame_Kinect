@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=status
+comment0.target=void\ setPuzzleStatus(java.lang.String)
+comment1.params=o
+comment1.target=void\ register(IPuzzleObserver)
+comment2.params=o
+comment2.target=void\ unregister(IPuzzleObserver)
+comment3.params=
+comment3.target=void\ notifyObservers()
+numComments=4
